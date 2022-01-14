@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6</ApiVersion>
+  <AutoUpgraded>true</AutoUpgraded>
+  <Id>com.protman.4XO</Id>
+  <Version>0.9</Version>
+  <Author>protman</Author>
+  <Name>4XO</Name>
+  <Category>In Progress</Category>
+  <Description>It's for XLN XO. Convert XLN XO notes to separate instruments</Description>
+  <Homepage>https://prot.audio</Homepage>
+</RenoiseScriptingTool>
